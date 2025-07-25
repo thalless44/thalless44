@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1> Olá, sou o Thalles dos Santos Ramos </h1>
 
-<!--
-**thalless44/thalless44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Resumo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Formado no Ensino Médio Técnico integrado pelo IFSC
+- 💻 Tenho experiência com **Java**,  **HTML** e **CSS**
+- 👶 Conhecimento básico em **JavaScript**, **PHP**, **Python** e **bancos de dados MySQL**
+  
+---
+### Contatos
+- 📩 Email: [thallessantos513@gmail.com](mailto:thallessantos513@gmail.com)
+- 📱  Instagram: [@Thalless44](https://www.instagram.com/thalless44)
